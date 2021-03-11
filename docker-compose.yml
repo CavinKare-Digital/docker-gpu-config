@@ -8,4 +8,4 @@ services:
     tty: true
 #    volumes:
 #      - ~/data/:/var/www/
-# you can add your data set models/folders in volume section to retrieve them in the gpu
+# you can add your training data set or deep learning models in volume section to retrieve them in the gpu
